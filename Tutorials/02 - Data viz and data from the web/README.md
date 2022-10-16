@@ -1,6 +1,6 @@
-# 02 - Data viz and data from the web
+# 01 - Data viz and data from the web
 
-In this exercise session we explore the basic features of data visualization libraries in Python and we practice using them.
+In this exercise session we explore the basic features of data visualization libraries in python and we practice using them.
 
 ---
 
